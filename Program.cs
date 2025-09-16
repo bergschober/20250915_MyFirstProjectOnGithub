@@ -7,3 +7,4 @@ Console.WriteLine("Main again");
 Console.WriteLine("Main again #2");
 
 Console.WriteLine("Tes2");
+Console.WriteLine("Test2 #2");
